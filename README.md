@@ -11,7 +11,6 @@ How am I now:
 - I am a 1st year remote university student 🎒
 - I'm developing my english. :us:
 - I'm looking for a job. 🔎
-- I'm interesting swimming. :swimming_man:
 
 
 Note : Swimming :swimming_man: and watching movies are my indispensable activities. 
