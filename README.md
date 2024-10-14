@@ -9,7 +9,6 @@ I share publicly everything I do. If I didn't do it for someone else. To make me
 
 How am I now:
 - I am a 1st year remote university student 🎒
-- I'm developing my english. :us:
 - I'm looking for a job. 🔎
 
 
