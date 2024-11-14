@@ -47,6 +47,12 @@ const techStack = {
 - 🚛 Logistics Application for Remondis
 - Custom ERP integrations and automation solutions
 
+### 5. Servio - Service Marketplace Platform
+- 🌟 Professional service marketplace connecting providers with clients
+- Built with Laravel 9, Orchid Admin Panel, and Jetstream
+- Dynamic form builder and offer management system
+- [View Project](https://github.com/tolgatasci/servio)
+
 ## 🎯 Professional Experience
 
 - **Remondis Turkey** (2022 - Present)
